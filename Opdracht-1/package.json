@@ -1,0 +1,15 @@
+{
+  "name": "opdracht-1",
+  "version": "1.0.0",
+  "description": "Voer de volledige opdracht uit in de map `Opdracht-1`.",
+  "main": "index.js",
+  "scripts": {
+    "prod": "tsc index.ts --outDir dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
