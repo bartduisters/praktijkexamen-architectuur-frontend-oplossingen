@@ -15,3 +15,8 @@
 
 Elke opdracht bevat een eigen `README.md`-bestand met instructies. Lees deze goed door.
 Maak de oplossing van een opdracht in de opdrachtmap.
+
+## Puntenverdeling
+
+Opdracht 1: 3 punten
+Opdracht 2: 3 punten
