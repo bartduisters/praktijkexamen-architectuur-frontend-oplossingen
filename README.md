@@ -18,5 +18,6 @@ Maak de oplossing van een opdracht in de opdrachtmap.
 
 ## Puntenverdeling
 
-Opdracht 1: 3 punten
-Opdracht 2: 3 punten
+Opdracht 1: 6 punten
+Opdracht 2: 6 punten
+Opdracht 3: 8 punten
